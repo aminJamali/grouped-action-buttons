@@ -50,6 +50,6 @@ GroupedActionButtons(
 
 ## Additional information
 
-for more info checkout github repository and also you can contact me on linkedin to send your message.
-LinkedIn: https://www.linkedin.com/in/amin-jamali-63a76a240
+for more info checkout github repository.
+Package repository: https://github.com/aminJamali/grouped-action-buttons
 
