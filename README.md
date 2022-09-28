@@ -7,7 +7,7 @@
 
 Create grouped FloatingActionButton which can expand and collapse some widgets with animation.
 
-![](http://i.imgur.com/OUkLi.gif)
+![](https://media.giphy.com/media/FH7Ml4LEiDBBQumcCv/giphy.gif)
 
     
 
